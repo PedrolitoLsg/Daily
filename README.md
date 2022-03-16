@@ -1,6 +1,7 @@
 # Daily
 mobile app using Kivy Framework
 
+![kivy](https://kivy.org/logos/kivy-logo-black-64.png)
 
 WIP, the goal is to each day provide curated "audio content" and "text content".
   Users can like the <content> of the day and find it in their likes page.
