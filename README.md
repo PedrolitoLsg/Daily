@@ -1,5 +1,5 @@
 # Daily
-mobile app using Kivy Framework
+WIP mobile app using Kivy Framework
 
 ![kivy](https://kivy.org/logos/kivy-logo-black-64.png)
 
